@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kar3ncita
 - 👀 I’m interested in SOFTWARE DEV
-- 🌱 I’m currently learning Javsdcript!
+- 🌱 I’m currently learning Javascript!
 
 
 <!---
